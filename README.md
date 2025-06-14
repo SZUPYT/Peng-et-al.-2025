@@ -1,5 +1,5 @@
 # Peng-et-al.-2025
-This repository contains the source code performed in the paper. All illustrations, results, data pre-processing, data workflow are computed within the notebooks.
+This repository contains the source code performed in the paper. All illustrations, results, data pre-processing, data workflow are computed within the codes.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
